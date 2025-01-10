@@ -264,6 +264,14 @@ const Hero = () => {
                                 <li className="mb-1">Kids' Basketball Shoes</li>
                             </ul>
                         </div>
+                        {/* Bottom Notification */}
+      <div className="bg-gray-100 py-4 text-center">
+        <p className="text-lg font-semibold">Hello Nike App</p>
+        <p className="text-sm">
+          Download the app to access everything Nike.{' '}
+          <a href="#" className="underline"><b>Get Your Great</b></a>
+        </p>
+      </div>
                     </div>
                     </div>
 
